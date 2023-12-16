@@ -1,6 +1,6 @@
 // Import the required modules
 import { Router } from 'itty-router';
-import ytdl from 'ytdl-core';
+import ytdl from 'https://cdn.skypack.dev/ytdl-core'
 
 // Create a router instance
 const router = Router();
